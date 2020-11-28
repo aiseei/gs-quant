@@ -1,4 +1,6 @@
 # GS Quant
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faiseei%2Fgs-quant.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Faiseei%2Fgs-quant?ref=badge_shield)
+
 
 **GS Quant** is a Python toolkit for quantitative finance, created on top of one of the world’s most powerful risk transfer platforms. Designed to accelerate development of quantitative trading strategies and risk management solutions, crafted over 25 years of experience navigating global markets.
 
@@ -28,3 +30,7 @@ Contributions are encouraged! Please see CONTRIBUTING.MD for more details.
 ## Help
 
 Please reach out to `gs-quant@gs.com` with any questions, comments or feedback.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Faiseei%2Fgs-quant.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Faiseei%2Fgs-quant?ref=badge_large)
